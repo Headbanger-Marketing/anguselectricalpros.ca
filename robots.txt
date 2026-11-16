@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anguselectricalpros.ca/sitemap-index.xml
